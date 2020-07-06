@@ -1,0 +1,335 @@
+*{padding: 0px;margin-right: 0px}
+.header{}
+.header .header_background{
+    background-image: url("images/background.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 500px;
+}
+
+.header_navbar{
+    
+}
+.header_navbar .header_nav{
+}
+.header_navbar .header_nav .cekvenue{
+
+}
+.header_navbar .header_nav .cekvenue h2{
+    color: black;
+    color: white;
+
+
+
+}
+.header_navbar .header_nav .cekvenue h2 i{
+    font-size: 50px;
+    padding-right: 10px;
+}
+.header_navbar .header_nav .cekvenue h2 i span{}
+
+
+.header_navbar .dropdown{}
+.header_navbar .dropdown button{
+    padding-top: 12px;
+    font-size: 12px;
+    background-color: inherit;
+    border: none;
+    
+
+}
+.header_navbar .login_singup{
+    padding-top: 10px;
+    padding-left: 20px;
+}
+.header_navbar .login_singup a{
+    color: white;
+    padding-left: 15px;
+    font-size:14px; 
+    text-decoration: none;
+
+}
+.search_bar{}
+.search_bar .search{
+    position: relative;
+}
+.search_bar .search .form_item{}
+.search_bar .search .form_item form{
+    position: absolute;
+    top: -150px;
+    left: 131px;
+    width: 800px;
+    height: 40px;
+}
+.search_bar .search .form_item form input{
+    background-color: white;
+        opacity: 0.3;
+}
+.search_bar .search .form_button{
+    left: 962px;
+    width: 10%;
+    height: 35px;
+    background-color: #098DBE;
+    border: none;
+    position: absolute;
+    top: -150px;
+    border-right: 10px;
+
+}
+.search_bar .search .form_button button{
+    width: 10%;
+    height: 35px;
+    background-color:#098DBE;
+    border: none;
+    border-right: 10px;
+}
+.search_bar .search .form_button button i{
+    font-size: 30px;
+    color: white;
+    padding-left: 46px;
+}
+
+.header_text{}
+.header_text_1{
+    
+    position: relative;
+}
+.header_text .header_text_1 .header_text_inner{
+    position: absolute;
+    top: -380px;
+    left: 167px;
+
+}
+.header_text .header_text_1 .header_text_inner p{
+    color: white;
+    font-size: 17px;
+
+}
+.header_text .header_text_1 .only_inner_text{
+    position: absolute;
+    top: -340px;
+    left: 163px;
+}
+.header_text .header_text_1 .only_inner_text h4{
+    color: white;
+    font-size: 25px;
+    text-transform: uppercase;
+}
+
+
+.last_background_text{
+    background-color: #098DBE;
+}
+.last_background_text .reach{}
+.last_background_text .reach h5{
+        text-align: center;
+        color: white;
+    font-weight: 600;
+}
+.last_background_text .reach_item{
+        color: white;
+    text-align: center;
+}
+.last_background_text .reach_item h2{}
+.last_background_text .reach_item p{
+    font-size: 14px;
+    text-transform: uppercase;
+}
+
+.your_event{
+        background-color: #E8EBEC;
+}
+.your_event .event{}
+.your_event .event h1{
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 700;
+    padding-top: 30px;
+    font-size: 30px;
+}
+.your_event .event_item{
+    padding-top: 20px;
+    text-align: center;
+}
+.your_event .event_item .event_icon_background{
+    height: 80px;
+    width: 80px;
+    background-color: #F54746;
+    border-radius: 50%;
+    margin-left: 130px;
+}
+.your_event .event_item .event_icon_background i{
+    padding-top: 15px;
+    color: white;
+}
+.your_event .event_item  h3{
+    padding-top: 15px;
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: 700;
+}
+.your_event .event_button{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+
+.your_event .event_button button{
+    width: 220px;
+    background-color: #098DBE;
+    height: 40px;
+    color: white;
+    font-weight: 800;
+    font-size: 18px;
+    border: none;
+}
+
+.populer_location{
+    margin-left: 101px;
+    margin-top: 60px;
+}
+.populer_location .populer_location_text{}
+.populer_location .populer_location_text h2{
+    text-transform: uppercase;
+    font-size: 25px;
+    font-weight: 700;
+    padding-bottom: 30px;
+       
+}
+.populer_location .image_text h2{
+    font-size: 20px;
+    font-weight: 700;
+    position: absolute;
+    top: -50px;
+    left: 138px;
+    color: white;
+}
+.populer_location .image_text h3{
+        font-size: 20px;
+    font-weight: 700;
+    position: absolute;
+    top: -50px;
+    left: 252px;
+    color: white;
+}
+.populer_location img{}
+.populer_location .image_opacity_1{
+    background-color: black;
+    opacity: 0.3;
+    width: 200px;
+    height: 35px;
+    position: absolute;
+    top: -50px;
+    left: 133px;
+}
+.populer_location .image_opacity_3{
+    background-color: black;
+    opacity: 0.3;
+    width: 200px;
+    height: 35px;
+    position: absolute;
+    top: -50px;
+    left: 248px;
+}
+
+.populer_location .populer_location_button{
+    text-align: center;
+    margin-top: 35px;
+}
+.populer_location .populer_location_button button{
+    background-color: #098DBE;
+    color: white;
+    border: none;
+    width: 150px;
+    height: 40px;
+    border-radius: 10px;
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.upcoming_event{
+    background-color: #E8EBEC;
+    margin-top: 30px
+}
+.upcoming_event h2{
+    padding-top: 51px;
+    font-size: 25px;
+    font-weight: 700;
+    padding-left: 196px;
+}
+.upcoming_event_form{
+    background-color: #098DBE;
+}
+.upcoming_event_form .form_up_text{}
+.upcoming_event_form .form_up_text h2{
+        padding-top: 40px;
+    text-transform: uppercase;
+    font-size: 22px;
+    color: white;
+}
+.upcoming_event_form .form_up_text p{
+    padding-top: 10px;
+    color: white;
+    padding-bottom: 10px;
+}
+.upcoming_event_form .form-group{
+    padding-left: 318px;
+}
+.upcoming_event_form .form-group input{
+    width: 500px;
+}
+.upcoming_event_form button{
+    width: 500px;
+    background-color: #046488;
+    margin-bottom: 23px;
+    margin-left: 23px;
+    color: white;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+.footer{
+    background-color: #292E34;
+}
+.footer .footer_link{
+    padding-top: 30px;
+    padding-bottom: 30px
+}
+.footer .footer_link ul{
+    list-style: none;
+}
+.footer .footer_link ul li{
+    display: inline-block;
+        padding-right: 30px;
+}
+.footer .footer_link ul li a{
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
+}
+.footer_2{
+    background-color: black;
+}
+.footer_2 .copyright{}
+.footer_2 .copyright p{
+    font-size: 13px;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 23px;
+}
+.footer_2 .footer_social h5{
+    color: white;
+    padding-top: 20px;
+    padding-left: 30px;
+    font-size: 14px;
+}
+.footer_2 .footer_social h5 a{}
+.footer_2 .footer_social h5 a i{
+    color: white;
+    padding-right: 27px;
+}
+
+
+
